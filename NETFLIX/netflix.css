@@ -1,0 +1,222 @@
+body{
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-color: black;
+}
+.main1{
+    width: 100%;
+    height: 750px;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/9d3533b2-0e2b-40b2-95e0-ecd7979cc88b/a3873901-5b7c-46eb-b9fa-12fea5197bd3/IN-en-20240311-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    opacity: 0.2;
+    position: absolute;
+}
+.container1{
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+}
+#logo{
+    margin: 50px;
+    width: 20%;
+    height: 80px;
+    color: red;
+    font-size: 30px;
+    font-weight: 1000;
+    position: absolute;
+}
+#lang{
+    margin-left: 1100px;
+    width: 8%;
+    height: 30px;
+    background-color: transparent;
+    color: white;
+    position: absolute;
+    border: solid 1px white;
+}
+#login{
+    margin-left: 1250px;
+    width: 8%;
+    height: 30px;
+    background-color: red;
+    color: white;
+    position: absolute;
+    border: solid 1px black;
+}
+.container2{
+    margin-top: 18%;
+    margin-left: 30%;
+    width: 40%;
+    height: 400px;
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    text-align: center;
+}
+#ip1{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 50px;
+    width: 50%;
+    color: white;
+    font-size: 20px;
+    background-color:black;
+    margin-left: -50%;    
+
+}
+#btn1{
+    width: 40%;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: white;
+    background-color:red;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 2%;
+}
+.main2{
+    width: 100%;
+    height: 800px;
+    margin-top: 720px;
+    position: absolute;
+}
+#h21{
+    margin-top: 5%;
+    margin-left: 12%;
+    color: white;
+    font-family: sans-serif;
+}
+.box{
+    margin-top: 0%;
+    width: 85%;
+    height: 400px;
+    margin-left: 8%;
+}
+.box1,.box2,.box3,.box4{
+    margin-top: 0%;
+    margin-left: 4%;
+    width: 20%;
+    height: 260px;
+    border: solid 1px white;
+    border-radius: 10%;
+    display: inline-flex;
+    justify-content: space-evenly;
+    background: radial-gradient( black, rgb(32, 28, 28));
+}
+#h1{
+    margin-top: 15%;
+    margin-left: 2%;
+    color: white;
+    font-family: sans-serif;
+}
+
+.ques{
+    border: 0px solid black;
+    background-color: black;
+    color: white;
+    height: 800px;
+    width: 80%;
+    font-size: 60px;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-left: 310px;
+    position: relative;
+}
+
+.net0,.net1,.net2,.net3,.net4,.net5,.net6{
+    border: 0px solid black;
+    background-color: rgb(39, 38, 38);
+    color: white;
+    padding-top: 10px;
+    padding-left: 9px;
+    font-size: 30px;
+    height: 55px;
+    width: 85%;
+    margin-left: -100px;
+    margin-top: 20px;
+}
+
+.watch{
+    border: 0px solid black;
+    height: 170px;
+    width: 100%;
+    color: white;
+    /* background-color: brown; */
+    position: absolute;
+    margin-top: -180px;
+}
+.watch h1{
+    padding-top: 20px;
+    padding-left: 160px;
+    font-size: 30px;
+}
+.watch input{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 50px;
+    width: 50%;
+    color: white;
+    font-size: 20px;
+    background-color:black;
+    padding-left: 20px;
+    margin-left: 10%;
+}
+.watch button{
+    border: 1px solid black;
+    height: 50px;
+    border-radius: 10px;
+    width: 11%;
+    color: white;
+    background-color:red;
+    padding-left: 10px;
+    margin-left: 0px;
+    font-size: 20px;
+}
+
+.foot{
+    border: 0px solid black;
+    height: 400px;
+    width: 100%;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+    margin-left: 3%;
+}
+.zero{
+    width: 100%;
+    height: 50px;
+    color: white;
+    margin-top: 4%;
+    margin-left: 11%;
+}
+.one,.two,.three,.four{
+    border: 1px solid black;
+    height: 300px;
+    width: 20%;
+    color: white;
+    font-size: 20px;
+    margin-left: 8%;
+}
+a{
+    color: white;
+}
+.five{
+    width: 100%;
+    height: 100px;
+}
+#lang1{
+    margin-left: -850px;
+    margin-top: 15%;
+    width: 8%;
+    height: 30px;
+    background-color: transparent;
+    color: white;
+    position: absolute;
+    border: solid 1px white;
+}
